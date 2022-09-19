@@ -1,13 +1,5 @@
 [
   {
-    "package": "dynatop",
-    "oncran": true
-  },
-  {
-    "package": "dynatopGIS",
-    "oncran": true
-  },
-  {
     "package": "FKF",
     "oncran": true
   }
