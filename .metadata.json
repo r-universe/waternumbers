@@ -1,6 +1,6 @@
 [
   {
-    "package": "FKF",
+    "package": "dynatop",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "dynatop",
+    "package": "FKF",
     "oncran": true
   }
 ]
