@@ -13,8 +13,18 @@
 	url = https://github.com/waternumbers/dynatopgis
 	shallow = true
 	registered = true
+[submodule "fCopulae"]
+	path = fCopulae
+	url = https://github.com/cran/fCopulae
+	shallow = true
+	registered = true
 [submodule "FKF"]
 	path = FKF
 	url = https://github.com/waternumbers/fkf
+	shallow = true
+	registered = true
+[submodule "fNonlinear"]
+	path = fNonlinear
+	url = https://github.com/cran/fNonlinear
 	shallow = true
 	registered = true
