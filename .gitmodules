@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FKF"]
+	path = FKF
+	url = https://github.com/waternumbers/fkf
 [submodule "dynatop"]
 	path = dynatop
 	url = https://github.com/waternumbers/dynatop
@@ -11,9 +14,6 @@
 [submodule "fCopulae"]
 	path = fCopulae
 	url = https://github.com/cran/fCopulae
-[submodule "FKF"]
-	path = FKF
-	url = https://github.com/waternumbers/fkf
 [submodule "fNonlinear"]
 	path = fNonlinear
 	url = https://github.com/cran/fNonlinear
