@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/waternumbers/waternumbers.r-universe.dev
 	branch = HEAD
 [submodule "FKF"]
 	path = FKF
@@ -13,7 +13,10 @@
 	url = https://github.com/waternumbers/dynatopgis
 [submodule "fCopulae"]
 	path = fCopulae
-	url = https://github.com/cran/fCopulae
+	url = https://github.com/r-forge/rmetrics/tree/master/pkg/fCopulae
 [submodule "fNonlinear"]
 	path = fNonlinear
-	url = https://github.com/cran/fNonlinear
+	url = https://github.com/r-forge/rmetrics/tree/master/pkg/fNonlinear
+[submodule "rrdb"]
+	path = rrdb
+	url = https://github.com/waternumbers/rrdb
