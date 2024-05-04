@@ -17,10 +17,12 @@
 	url = https://github.com/waternumbers/dynatopgis
 [submodule "fCopulae"]
 	path = fCopulae
-	url = https://github.com/r-forge/rmetrics/tree/master/pkg/fCopulae
+	url = https://github.com/r-forge/rmetrics
+	subdir = tree/master/pkg/fCopulae
 [submodule "fNonlinear"]
 	path = fNonlinear
-	url = https://github.com/r-forge/rmetrics/tree/master/pkg/fNonlinear
+	url = https://github.com/r-forge/rmetrics
+	subdir = tree/master/pkg/fNonlinear
 [submodule "rrdb"]
 	path = rrdb
 	url = https://github.com/waternumbers/rrdb
