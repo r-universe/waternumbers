@@ -8,7 +8,6 @@
 [submodule "anomalous"]
 	path = anomalous
 	url = https://github.com/waternumbers/anomalous
-	branch = performance
 [submodule "dynatop"]
 	path = dynatop
 	url = https://github.com/waternumbers/dynatop
