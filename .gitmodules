@@ -17,11 +17,11 @@
 [submodule "fCopulae"]
 	path = fCopulae
 	url = https://github.com/r-forge/rmetrics
-	subdir = tree/master/pkg/fCopulae
+	subdir = pkg/fCopulae
 [submodule "fNonlinear"]
 	path = fNonlinear
 	url = https://github.com/r-forge/rmetrics
-	subdir = tree/master/pkg/fNonlinear
+	subdir = pkg/fNonlinear
 [submodule "rrdb"]
 	path = rrdb
 	url = https://github.com/waternumbers/rrdb
