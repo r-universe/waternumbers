@@ -10,7 +10,7 @@
 	url = https://github.com/waternumbers/anomalous
 [submodule "dynatop"]
 	path = dynatop
-	url = https://github.com/waternumbers/dynatop
+	url = https://codeberg.org/dynatop/dynatop
 [submodule "dynatopGIS"]
 	path = dynatopGIS
 	url = https://github.com/waternumbers/dynatopgis
